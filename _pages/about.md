@@ -12,7 +12,7 @@ I graduated from McGill University with a bachelor's degree in Computer Science 
 
 Previously I worked as a research intern for Prof. Joelle Pineau on machine learning at McGill University & Quebec AI Institute (Mila). 
 
-I am looking for a PhD position in finance starting in Fall 2023.
+I am looking for a PhD position in finance starting in Fall 2023. Here is my CV.
 
 Research Interests
 ======
