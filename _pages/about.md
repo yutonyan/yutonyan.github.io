@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an Assistant Professor at UCSD jointly appointed by Computer Science and Halıcıoğlu Data Science Institute. I obtained my Ph.D. from UIUC advised by Prof. Jiawei Han in 2019. I received my B.E. from SJTU in 2014. I’m also a coach of the UCSD’s ACM-ICPC team.
+I graduated from McGill University with a bachelor's degree in Computer Science and Statistics. I am currently a research assistant at CUHK hosted by Prof. Zhenyu Gao and Prof. Wenxi Jiang.
 
 Research Interests
 ======
