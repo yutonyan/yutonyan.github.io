@@ -83,11 +83,12 @@ author:
   name             : "Yutong Yan"
   avatar           : "profile.png"
   bio              : "ESG and Green Finance"
-  location         : 
+  location         : "Room 733"
+  location         : "CUHK Business School"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yutongyan@cuhk.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yutonyan"
+  github           : "yutongyan"
   google_plus      :
   keybase          :
   instagram        :
