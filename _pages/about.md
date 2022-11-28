@@ -10,6 +10,8 @@ redirect_from:
 
 I graduated from McGill University with a bachelor's degree in Computer Science and Statistics. I am currently a research assistant at CUHK hosted by Prof. Zhenyu Gao and Prof. Wenxi Jiang.
 
+I am looking for a PhD position in finance starting in Fall 2023.
+
 Research Interests
 ======
 
