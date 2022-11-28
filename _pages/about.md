@@ -24,7 +24,7 @@ I’m broadly interested in finance, big data, and machine learning:
  - Machine Learning
  - Natural Language Processing
 
-Most of my research projects focus on (1) investing institutional investors' behaviour towards sustainable investing and (2) taking advantage of large-scale data and applying machine learning techniques to unravel finance research questions.
+Most of my research projects focus on (1) investigating institutional investors' behaviour towards sustainable investing and (2) taking advantage of large-scale data and applying machine learning techniques to unravel finance research questions.
 
 
 
