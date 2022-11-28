@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  writing-samples:
+  writing-sample:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -231,10 +231,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _writing-samples
+  # _writing-sample
   - scope:
       path: ""
-      type: writing-samples
+      type: writing-sample
     values:
       layout: single
       author_profile: true
