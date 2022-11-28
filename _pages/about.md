@@ -17,12 +17,16 @@ I am looking for a PhD position in finance starting in Fall 2023.
 Research Interests
 ======
 
-I’m broadly interested in Data Mining Problems and Applications:
+I’m broadly interested in finance, big data, and machine learning:
+ - Sustainable and Climate Finance
+ - Investor Behaviour
+ - Institutional Investors
+ - Machine Learning
+ - Natural Language Processing
 
- - Text Mining, Information Extraction, and Natural Language Processing
- - Structured Mining in Large-Scale Text-Rich Networks
- - Understanding and Improving Deep Neural Networks
- - Interdisciplinary Applications (e.g., Biomedical, IoT, …)
+Most of my research projects focus on (1) investing institutional investors' behaviour towards sustainable investing and (2) taking advantage of large-scale data and applying machine learning techniques to unravel finance research questions.
+
+
 
 <!-- 
 Getting started
