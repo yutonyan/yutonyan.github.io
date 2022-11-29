@@ -6,10 +6,20 @@ author_profile: true
 ---
 
 {% include base_path %}
-# Writing Sample
-- abc
+- Bandit
+
+<details>
+<summary>Abstract</summary>
+
+```
+CODE!
+```
+</details>
+
 - def
 
+<!--
 {% for post in site.writing-sample reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
