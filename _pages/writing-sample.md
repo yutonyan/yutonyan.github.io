@@ -8,10 +8,10 @@ author_profile: false
 {% include base_path %}
 ## Bandit Algorithms for Factorial Experiments
 
-    <details>
+<details>
     <summary>Abstract</summary>
     This is abstract. 
-    </details>
+</details>
     
 
 ## def
