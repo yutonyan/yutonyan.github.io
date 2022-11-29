@@ -2,7 +2,7 @@
 layout: archive
 title: "Writing Sample"
 permalink: /writing-sample/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
