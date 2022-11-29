@@ -54,7 +54,7 @@ Research Experiences
   * Investigated various factorial experimental design configurations.
   * Concluded that UCT algorithms for factorial experimental designs are robust.
 
-
+<!--
 
 Skills
 ======
@@ -86,3 +86,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
