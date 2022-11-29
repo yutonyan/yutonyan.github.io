@@ -2,21 +2,19 @@
 layout: archive
 title: "Writing Sample"
 permalink: /writing-sample/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
-- Bandit
+## Bandit Algorithms for Factorial Experiments
 
-<details>
-<summary>Abstract</summary>
+    <details>
+    <summary>Abstract</summary>
+    This is abstract. 
+    </details>
+    
 
-```
-CODE!
-```
-</details>
-
-- def
+## def
 
 <!--
 {% for post in site.writing-sample reversed %}
