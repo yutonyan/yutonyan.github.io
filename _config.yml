@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  education:
+    output: true
+    permalink: /:collection/:path/
   writing-sample:
     output: true
     permalink: /:collection/:path/
@@ -234,6 +237,15 @@ defaults:
   - scope:
       path: ""
       type: writing-sample
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
     values:
       layout: single
       author_profile: true
