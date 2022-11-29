@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Writing Sample"
-permalink: /writing-sample/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
