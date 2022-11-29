@@ -50,9 +50,9 @@ Research Experiences
 * Bandit Algorithms for Factorial Experiments
   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
   * Keywords: Machine Learning; Optimization
-  * Implemented a family of bandit algorithms
+  * Implemented a family of bandit algorithms.
   * Investigated various factorial experimental design configurations.
-  * Concluded that UCT algorithms for factorial experimental designs are robust
+  * Concluded that UCT algorithms for factorial experimental designs are robust.
 
 
 
