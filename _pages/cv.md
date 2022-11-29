@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Arts in Computer Science & Statistics, McGill University, 2020
+  * Dean’s Honours List (Top 5%)
+  * CGPA: 3.92/4.00, Major GPA: 3.96/4.00
 
-Work experience
+Research Positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Department of Finance, the Chinese University of Hong Kong, 2021 - Now
+  * Research Assistant 
+  * Supervisors: Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang
 
 * Fall 2015: Research Assistant
   * Github University
