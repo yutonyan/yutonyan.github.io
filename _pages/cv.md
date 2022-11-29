@@ -44,7 +44,7 @@ Research Experiences
 * A Theoretical Analysis of UCT with Laplace Bound
   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
   * Keywords: Machine Learning; Statistical Learning Theory; Optimization
-  * First proved the Upper Confidence Bounds applied to Trees (UCT) algorithm using the Laplace bound that has a lower computational complexity than its counterparts.
+  * First proved UCT algorithm using the Laplace bound that has a lower computational complexity than its counterparts.
   * Showed experimental results are consistent with the theoretical regret bound in deep learning settings.
 
 * Bandit Algorithms for Factorial Experiments
