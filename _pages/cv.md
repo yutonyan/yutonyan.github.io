@@ -36,28 +36,21 @@ Research Experiences
   * Co-authors: Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang
   * Keywords: Climate Finance; Investor Behaviour; Textual Analysis
   * Preprocess hundreds of gigabytes of PDF documents into TXT format.
-  * Design a machine learning pipeline for iterative labelling to construct a highly
-representative training dataset.
-  * Fine-tune BERT to classify unlabelled corpus and achieve 85% test accuracy.
-  * Construct a climate-awareness measure of financial reports to quantify firms’
-realization of climate change events.
-  * Conduct robust regressions to analyze how climate-awareness affects fund port-
-folio holdings and return performance.
+  * Design a machine learning pipeline for iterative labelling to construct a highly representative training dataset.
+  * Fine-tune BERT to classify unlabelled corpus and achieve 85+% test accuracy.
+  * Construct a climate-awareness measure to quantify firms’ realization of climate risks.
+  * Conduct robust regressions to analyze how climate-awareness affects fund portfolio holdings and return performance.
 
 * A Theoretical Analysis of UCT with Laplace Bound
   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
   * Keywords: Machine Learning; Statistical Learning Theory; Optimization
-  * First proved the Upper Confidence Bounds applied to Trees (UCT) algorithm
-using the Laplace bound that has a lower computational complexity than its
-counterparts.
-  * Showed experimental results are consistent with the theoretical regret bound in
-deep learning settings.
+  * First proved the Upper Confidence Bounds applied to Trees (UCT) algorithm using the Laplace bound that has a lower computational complexity than its counterparts.
+  * Showed experimental results are consistent with the theoretical regret bound in deep learning settings.
 
 * Bandit Algorithms for Factorial Experiments
   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
   * Keywords: Machine Learning; Optimization
-  * Implemented a family of bandit algorithms and investigated various factorial
-experimental design configurations.
+  * Implemented a family of bandit algorithms and investigated various factorial experimental design configurations.
   * Concluded that UCT algorithms for factorial experimental designs are robust
 
 
