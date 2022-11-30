@@ -52,12 +52,12 @@ Research Experiences
 
 *Keywords: Machine Learning; Optimization*
   <details>
-    <summary>Abstract</summary>
+    <summary>Details</summary>
      <ul>
       <li> Implemented a family of bandit algorithms. </li>
       <li> Investigated various factorial experimental design configurations. </li>
       <li> Concluded that UCT algorithms for factorial experimental designs are robust. </li>
-     <ul>
+     </ul>
   </details>
 
 <!--   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
