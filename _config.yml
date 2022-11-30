@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yutong Yan"
   avatar           : "profile.png"
-  bio              : "ESG and Green Finance"
-  location         : "Room 733"
+  bio              : 
+  location         : "Department of Finance"
   employer         : "CUHK Business School"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
