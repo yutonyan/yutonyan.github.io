@@ -9,17 +9,16 @@ author_profile: true
 
 # Finance
 
-
+<!--   <div style="background-color:#D3D3D3;padding:20px;"> -->
 # Machine Learning
 
 * Bandit Algorithms for Factorial Experiments  
   [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
-<!--   <div style="background-color:#D3D3D3;padding:20px;"> -->
   <div class="highlight">
-  <details open>
-    <summary>Abstract</summary>
-    This is abstract. 
-  </details>
+    <details open>
+        <summary>Abstract</summary>
+          This is abstract. 
+    </details>
   </div>
 
 * A Theoretical Analysis of Upper Confidence Bound applied to Trees  
