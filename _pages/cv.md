@@ -88,9 +88,13 @@ Teaching Experience
   **Teaching Assistant** of [MATH223 Linear Algebra](https://www.mcgill.ca/study/2022-2023/courses/math-223)  
   **Tutor** of Computer Science Undergraduate Society Help Desk
 
-
-
-
+Invited Talks
+======
+* Vancouver - [WiML Workshop at Neural Information Processing Systems Conference](https://wimlworkshop.org/2019/)
+* Montréal - [Montréal AI Symposium](http://montrealaisymposium.com/)
+* Montréal - [Undergraduate Computer Science Research Symposium](https://www.cs.mcgill.ca/~robere/ucore2022/)
+* Edmonton - [Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)
+* Montréal - [AI for Social Good Lab](https://www.ai4goodlab.com/)
 
 <!--
 
