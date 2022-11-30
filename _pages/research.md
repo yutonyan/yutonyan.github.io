@@ -14,12 +14,12 @@ author_profile: true
 
 * Bandit Algorithms for Factorial Experiments  
   [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
-  <div class="language-plaintext highlighter-rouge">
-    <details open>
+  <details open>
+    <div class="language-plaintext highlighter-rouge">
         <summary>Abstract</summary>
-          This is abstract. 
-    </details>
-  </div>
+          This is abstract.   
+    </div>
+  </details>
 
 * A Theoretical Analysis of Upper Confidence Bound applied to Trees  
   [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/)  
