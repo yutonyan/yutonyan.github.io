@@ -28,7 +28,7 @@ author_profile: true
           This is abstract.   
   </details>
   
-* Improving Reward Shaping via Language Instruction 
+* Improving Reward Shaping via Language Instruction  
   [PDF](https://yutongyan.xyz/files/rl_nlp_report.pdf) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/rl_nlp_slides.pdf)  
   <details open>
     <summary>Abstract</summary>
