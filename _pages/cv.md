@@ -31,20 +31,30 @@ Research Positions
 
 Research Experiences
 ======
-* Financial Advisors’ Awareness of Climate Risks: A Textual Analysis Perspective
-  * Co-authors: Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang
-  * Keywords: Climate Finance; Investor Behaviour; Textual Analysis
-  * Preprocess hundreds of gigabytes of PDF documents into TXT format.
-  * Design a machine learning pipeline for iterative labelling to construct a high-quality training dataset.
-  * Fine-tune BERT to classify unlabelled corpus and achieve 85+% test accuracy.
-  * Construct a climate-awareness measure to quantify firms’ realization of climate risks.
-  * Conduct robust regressions to analyze how climate-awareness affects fund portfolio holdings and return performance.
+* Financial Advisors’ Awareness of Climate Risks: A Textual Analysis Perspective  
+  *Co-authors: Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang*  
+  *Keywords: Climate Finance; Investor Behaviour; Textual Analysis*
+  <details>
+    <summary><em>Details</em></summary>
+     <ul>
+      <li> Preprocess hundreds of gigabytes of PDF documents into TXT format. </li>
+      <li> Design a machine learning pipeline for iterative labelling to construct a high-quality training dataset. </li>
+      <li> Fine-tune BERT to classify unlabelled corpus and achieve 85+% test accuracy. </li>
+      <li> Construct a climate-awareness measure to quantify firms’ realization of climate risks. </li>
+      <li> Conduct robust regressions to analyze how climate-awareness affects fund portfolio holdings and return performance. </li>
+     </ul>
+  </details> 
 
-* A Theoretical Analysis of UCT with Laplace Bound
-  * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
-  * Keywords: Machine Learning; Statistical Learning Theory; Optimization
-  * First proved UCT algorithm using the Laplace bound that has a lower regret bound than its counterparts.
-  * Showed experimental results are consistent with the theoretical regret bound in deep learning settings.
+* A Theoretical Analysis of UCT with Laplace Bound  
+  *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*  
+  *Keywords: Machine Learning; Statistical Learning Theory; Optimization*
+  <details>
+    <summary><em>Details</em></summary>
+     <ul>
+      <li> First proved UCT algorithm using the Laplace bound that has a lower regret bound than its counterparts. </li>
+      <li> Showed experimental results are consistent with the theoretical regret bound in deep learning settings. </li>
+     </ul>
+  </details> 
 
 * Bandit Algorithms for Factorial Experiments  
   *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*  
