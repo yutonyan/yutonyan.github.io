@@ -26,8 +26,7 @@ Research Positions
 
 * Quebec AI Institute (MILA) & McGill University, 2019
   * Machine Learning Research Intern
-  * Duties included: Merging pull requests
-  * Supervisors: Prof. Joelle Pineau
+  * Supervisors: Prof. Joelle Pineau and Prof. Audrey Durand
 
 
 Research Experiences
