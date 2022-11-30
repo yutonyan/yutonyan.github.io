@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Arts in Computer Science & Statistics, McGill University, 2020
-  * Dean’s Honours List (Top 5%)
-  * CGPA: 3.92/4.00, Major GPA: 3.96/4.00
+* Bachelor of Arts in Computer Science & Statistics, McGill University, 2020  
+  **Dean’s Honours List** (Top 5%), CGPA: 3.92/4.00, Major GPA: 3.96/4.00
   * Selected Math Coursework: Advanved Probability Theory, Optimization, Mathematical Machine Learning, Stochastic Processes, Calculus, Linear Algebra
   * Selected Computer Science Coursework: Applied Machine Learning, Natural Language Processing, Computer Vision
 
