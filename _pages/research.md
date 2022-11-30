@@ -13,7 +13,7 @@ author_profile: true
 # Machine Learning
 
 * Bandit Algorithms for Factorial Experiments  
-  <[Full Report](https://yutongyan.xyz/files/)> <[Poster](https://yutongyan.xyz/files/)>  <[Slides](https://yutongyan.xyz/files/)>
+  [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
   <details>
     <summary>Abstract</summary>
     This is abstract. 
