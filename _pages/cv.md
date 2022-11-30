@@ -46,10 +46,9 @@ Research Experiences
   * First proved UCT algorithm using the Laplace bound that has a lower regret bound than its counterparts.
   * Showed experimental results are consistent with the theoretical regret bound in deep learning settings.
 
-* Bandit Algorithms for Factorial Experiments
-
+* Bandit Algorithms for Factorial Experiments  
   *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*  
-  *Keywords: Machine Learning; Optimization*  
+  *Keywords: Machine Learning; Optimization*
   <details>
     <summary><em>Details</em></summary>
      <ul>
@@ -57,7 +56,8 @@ Research Experiences
       <li> Investigated various factorial experimental design configurations. </li>
       <li> Concluded that UCT algorithms for factorial experimental designs are robust. </li>
      </ul>
-  </details>
+  </details>  
+
 
 <!--   * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
   * Keywords: Machine Learning; Optimization
