@@ -6,15 +6,20 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Bandit Algorithms for Factorial Experiments
 
-<details>
-    <summary>Abstract</summary>
-    This is abstract. 
-</details>
-    
+# Finance
 
-## def
+
+# Machine Learning
+
+* Bandit Algorithms for Factorial Experiments 
+    <details>
+        <summary>Abstract</summary>
+        This is abstract. 
+    </details>
+  [PDF](./files/research_proposal_slides.pdf) 
+
+
 
 <!--
 {% for post in site.writing-sample reversed %}
