@@ -13,7 +13,7 @@ author_profile: true
 # Machine Learning
 
 * Bandit Algorithms for Factorial Experiments  
-  [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
+  [Full Report](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)
   <details open>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
