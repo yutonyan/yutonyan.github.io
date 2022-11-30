@@ -96,6 +96,24 @@ Invited Talks
 * Edmonton - [Deep Learning and Reinforcement Learning Summer School](https://dlrl.ca/)
 * Montréal - [AI for Social Good Lab](https://www.ai4goodlab.com/)
 
+Honours & Awards
+======
+* WiML Workshop Travel Grant
+* McGill Arts Undergraduate Research Internship Award
+* McGill School of Computer Science Research Award
+* Tomlinson Undergraduate Award (Teaching Excellence)
+* The Rio Tino - Richard Evans International Exchange Award
+* Euclid Mathematics Contest School Champion
+
+Technical Skills
+======
+* Programming Languages  
+  Stata, Python, R, Matlab, SQL, Shell Script
+* Machine Learning Packages  
+  PyTorch, Scikit-learn, NLTK, Transformers
+* Database  
+  Compustat, CRSP, CSMAR, Thomson Reuters
+
 <!--
 
 Skills
