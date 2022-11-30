@@ -14,8 +14,8 @@ author_profile: true
 
 * **Bandit Algorithms for Factorial Experiments**  
   [PDF](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)  
-  Authors: Yutong Yan, Audrey Durand and Joelle Pineau
-  Venue: 2019 Women in Machine Learning Workshop at Conference on Neural Information Processing Systems
+  Authors: Yutong Yan, Audrey Durand and Joelle Pineau  
+  Venue: Women in Machine Learning Workshop, Conference on Neural Information Processing Systems 2019
   <details open>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
