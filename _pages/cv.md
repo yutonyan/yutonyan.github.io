@@ -47,8 +47,10 @@ Research Experiences
   * Showed experimental results are consistent with the theoretical regret bound in deep learning settings.
 
 * Bandit Algorithms for Factorial Experiments
-  * Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand
-  * Keywords: Machine Learning; Optimization
+
+*Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*
+
+*Keywords: Machine Learning; Optimization*
   <details>
     <summary>Abstract</summary>
      <ul>
