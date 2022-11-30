@@ -14,7 +14,7 @@ author_profile: true
 
 * Bandit Algorithms for Factorial Experiments  
   [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
-  <details>
+  <details open>
     <summary>Abstract</summary>
     This is abstract. 
   </details>
