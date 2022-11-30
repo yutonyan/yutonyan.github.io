@@ -9,10 +9,9 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-<!-- Education
-====== -->
-# Education
-## Bachelor of Arts in Computer Science & Statistics, McGill University, 2020
+Education
+======
+* Bachelor of Arts in Computer Science & Statistics, McGill University, 2020
   * Dean’s Honours List (Top 5%)
   * CGPA: 3.92/4.00, Major GPA: 3.96/4.00
   * Selected Math Coursework: Advanved Probability Theory, Optimization, Mathematical Machine Learning, Stochastic Processes, Calculus, Linear Algebra
@@ -54,6 +53,23 @@ Research Experiences
   * Implemented a family of bandit algorithms.
   * Investigated various factorial experimental design configurations.
   * Concluded that UCT algorithms for factorial experimental designs are robust.
+
+
+Teaching Experience
+======
+* 2020
+  * **Teaching Assistant** of [COMP551 Applied Machine Learning](https://www.mcgill.ca/study/2022-2023/courses/comp-551)
+* 2019
+  * **External Advisor** of [AI for Social Good Lab](https://www.ai4goodlab.com/)
+  * **Teaching Assistant** of [ECSE211 Engineering Design Principles and Methods](https://www.mcgill.ca/study/2022-2023/courses/ecse-202)
+* 2018
+  * **Teaching Assistant** of ECSE202 Introduction to Software Development
+  * **Teaching Assistant** of [MATH223 Linear Algebra](https://www.mcgill.ca/study/2022-2023/courses/math-223)
+  * **Tutor** of Computer Science Undergraduate Society Help Desk
+
+
+
+
 
 <!--
 
