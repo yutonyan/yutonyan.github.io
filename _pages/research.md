@@ -16,9 +16,9 @@ author_profile: true
   [Full Report](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/)
   <details open>
     <summary>Abstract</summary>
-    <div class="language-plaintext highlighter-rouge">
+<!--     <div class="language-plaintext highlighter-rouge"> -->
           This is abstract.   
-    </div>
+<!--     </div> -->
   </details>
 
 * A Theoretical Analysis of Upper Confidence Bound applied to Trees  
