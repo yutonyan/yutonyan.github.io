@@ -12,7 +12,7 @@ author_profile: true
 <!--   <div style="background-color:#D3D3D3;padding:20px;"> -->
 # Machine Learning
 
-* Bandit Algorithms for Factorial Experiments  
+* **Bandit Algorithms for Factorial Experiments**  
   [PDF](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)
   <details open>
     <summary>Abstract</summary>
@@ -21,14 +21,14 @@ author_profile: true
 <!--     </div> -->
   </details>
 
-* A Theoretical Analysis of Upper Confidence Bound applied to Trees  
+* **A Theoretical Analysis of Upper Confidence Bound applied to Trees**  
   [PDF](https://yutongyan.xyz/files/uct_proof.pdf) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/uct_slides.pdf)  
   <details open>
     <summary>Abstract</summary>
           This is abstract.   
   </details>
   
-* Improving Reward Shaping via Language Instruction  
+* **Improving Reward Shaping via Language Instruction**  
   [PDF](https://yutongyan.xyz/files/rl_nlp_report.pdf) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/rl_nlp_slides.pdf)  
   <details open>
     <summary>Abstract</summary>
@@ -36,7 +36,7 @@ author_profile: true
   </details>
 
 
-* Improving Self-supervised Learning in Computer Vision with Generative Models  
+* **Improving Self-supervised Learning in Computer Vision with Generative Models**  
   [PDF](https://yutongyan.xyz/files/cv_report.pdf) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/cv_slides.pdf)  
   <details open>
     <summary>Abstract</summary>
