@@ -48,11 +48,11 @@ Research Experiences
 
 * Bandit Algorithms for Factorial Experiments
 
-*Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*
-
-*Keywords: Machine Learning; Optimization*
+  *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*
+  
+  *Keywords: Machine Learning; Optimization*
   <details>
-    <summary>Details</summary>
+    <summary><em>Details</em></summary>
      <ul>
       <li> Implemented a family of bandit algorithms. </li>
       <li> Investigated various factorial experimental design configurations. </li>
