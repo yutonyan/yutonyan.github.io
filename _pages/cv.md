@@ -32,8 +32,8 @@ Research Positions
 Research Experiences
 ======
 * Financial Advisors’ Awareness of Climate Risks: A Textual Analysis Perspective  
-  *Co-authors: Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang*  
-  *Keywords: Climate Finance; Investor Behaviour; Textual Analysis*
+  *Co-authors:* Prof. Darwin Choi, Prof. Zhenyu Gao and Prof. Wenxi Jiang  
+  *Keywords:* Climate Finance; Investor Behaviour; Textual Analysis
   <details>
     <summary><em>Details</em></summary>
      <ul>
@@ -46,8 +46,8 @@ Research Experiences
   </details> 
 
 * A Theoretical Analysis of UCT with Laplace Bound  
-  *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*  
-  *Keywords: Machine Learning; Statistical Learning Theory; Optimization*
+  *Co-authors:* Prof. Joelle Pineau and Dr. Audrey Durand  
+  *Keywords:* Machine Learning; Statistical Learning Theory; Optimization
   <details>
     <summary><em>Details</em></summary>
      <ul>
@@ -57,8 +57,8 @@ Research Experiences
   </details> 
 
 * Bandit Algorithms for Factorial Experiments  
-  *Co-authors: Prof. Joelle Pineau and Dr. Audrey Durand*  
-  *Keywords: Machine Learning; Optimization*
+  *Co-authors:* Prof. Joelle Pineau and Dr. Audrey Durand  
+  *Keywords:* Machine Learning; Optimization
   <details>
     <summary><em>Details</em></summary>
      <ul>
