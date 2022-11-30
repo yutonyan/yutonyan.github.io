@@ -78,15 +78,15 @@ Research Experiences
 
 Teaching Experience
 ======
-* 2020
-  * **Teaching Assistant** of [COMP551 Applied Machine Learning](https://www.mcgill.ca/study/2022-2023/courses/comp-551)
-* 2019
-  * **External Advisor** of [AI for Social Good Lab](https://www.ai4goodlab.com/)
-  * **Teaching Assistant** of [ECSE211 Engineering Design Principles and Methods](https://www.mcgill.ca/study/2022-2023/courses/ecse-202)
-* 2018
-  * **Teaching Assistant** of ECSE202 Introduction to Software Development
-  * **Teaching Assistant** of [MATH223 Linear Algebra](https://www.mcgill.ca/study/2022-2023/courses/math-223)
-  * **Tutor** of Computer Science Undergraduate Society Help Desk
+* 2020  
+  **Teaching Assistant** of [COMP551 Applied Machine Learning](https://www.mcgill.ca/study/2022-2023/courses/comp-551)
+* 2019  
+  **External Advisor** of [AI for Social Good Lab](https://www.ai4goodlab.com/)  
+  **Teaching Assistant** of [ECSE211 Engineering Design Principles and Methods](https://www.mcgill.ca/study/2022-2023/courses/ecse-202)
+* 2018  
+  **Teaching Assistant** of ECSE202 Introduction to Software Development  
+  **Teaching Assistant** of [MATH223 Linear Algebra](https://www.mcgill.ca/study/2022-2023/courses/math-223)  
+  **Tutor** of Computer Science Undergraduate Society Help Desk
 
 
 
