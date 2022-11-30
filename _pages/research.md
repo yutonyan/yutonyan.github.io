@@ -12,12 +12,12 @@ author_profile: true
 
 # Machine Learning
 
-* Bandit Algorithms for Factorial Experiments 
-    <details>
-        <summary>Abstract</summary>
-        This is abstract. 
-    </details>
-  [PDF](./files/research_proposal_slides.pdf) 
+* Bandit Algorithms for Factorial Experiments  
+  <[Full Report](https://yutongyan.xyz/files/)> <[Poster](https://yutongyan.xyz/files/)>  <[Slides](https://yutongyan.xyz/files/)>
+  <details>
+    <summary>Abstract</summary>
+    This is abstract. 
+  </details>
 
 
 
