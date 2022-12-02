@@ -23,7 +23,7 @@ In this proposal, I plan to examine whether hiring ESG-specialized professionals
 ### Bandit Algorithms for Factorial Experiments
   [PDF](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)  
   Authors: Yutong Yan, Audrey Durand and Joelle Pineau  
-  Venue: [WiML Workshop](https://wimlworkshop.org/), Conference on Neural Information Processing Systems 2019
+  Venue: [WiML Workshop, Conference on Neural Information Processing Systems 2019](https://wimlworkshop.org/)
   <details>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
