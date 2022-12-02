@@ -35,7 +35,7 @@ In this proposal, I plan to examine whether hiring ESG-specialized professionals
   Research Supervisors: Prof. Joelle Pineau
   <details>
     <summary>Abstract</summary>
-          This is abstract.   
+      Using Factorial experiments, I explore multi-armed bandit problems in which a player selects actions (here a sequence) episodically and observes the outcomes. I consider the Upper Confidence Bound applied to Trees (UCT), a popular algorithm for tree search, in order to identify the sequence of choices that maximizes some objective function. Using synthetic experiments, I demonstrate that applying tighter concentration bounds to Linear Bandits can significantly improve the performance of UCT for tree search. Next step is to investigate various factorial experimental design configurations. I also compare the performance of algorithms under three different formulations of the factorial experiment: 1) standard bandits; 2) linear bandits; and 3) bandits for tree search. I observe that capturing the underlying tree structure is essential for robustness, whether the outcome function is linear or not. Furthermore, I observe that the algorithms employed under the bandits formulation of tree search for factorial experimental designs appear more robust to the noise variance than other approaches.
   </details>
   
 ### Improving Reward Shaping via Language Instruction
