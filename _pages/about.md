@@ -17,14 +17,14 @@ Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wi
 Research Interests
 ======
 
-I’m broadly interested in finance, big data, and machine learning:
- - Sustainable and Climate Finance
- - Investor Behaviour
- - Institutional Investors
- - Machine Learning
- - Natural Language Processing
+I’m broadly interested in **finance**, **big data**, and **machine learning**.
 
 Most of my research projects focus on (1) investigating institutional investors' behaviour towards sustainable investing and (2) taking advantage of large-scale data and applying machine learning techniques to unravel finance research questions.
+
+Research Statement (Short Version)
+======
+I am greatly fascinated by the groundbreaking power of artificial intelligence (AI) and how the state-of-the-art machine learning  techniques can be applied to problems of social significance. I’ve developed this fascination during my undergraduate studies in computer science and statistics, and through collaborations with computer scientists and financial economists on a variety of research projects. These projects include machine learning fundamentals as well as the application of machine learning techniques to sustainable finance. My desire to enroll in a Ph.D. program in Finance is my long-standing interest to fill the gaps in knowledge on artificial intelligence and to apply my expertise in finance.
+
 
 
 
