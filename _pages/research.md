@@ -62,7 +62,7 @@ In this proposal, I plan to examine whether hiring ESG-specialized professionals
 
 ### Improving Self-supervised Learning in Computer Vision with Generative Models
   [PDF](https://yutongyan.xyz/files/cv_report.pdf) &nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/cv_slides.pdf)  
-  Co-authors: Zhen Liu and Yutong Yan  
+  Co-authors: Zhen Liu  
   *Keywords*: Computer Vison, Self-supervised Learning  
   <details>
     <summary>Abstract</summary>
