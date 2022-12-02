@@ -9,7 +9,7 @@ author_profile: true
 
 ## Finance
 ### The Rise of Sustainable Investing: Does Employment of ESG Talents Predict Mutual Funds Activities?
-   [Request PDF](https://forms.gle/Yxf5xChwoUpibvr4A)  
+[Request PDF](https://forms.gle/Yxf5xChwoUpibvr4A)&nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/research_proposal_slides.pdf)
    <details open>
     <summary>Abstract</summary>
 In this proposal, I plan to examine whether hiring ESG-specialized professionals in mu- tual funds is related to the funds’ portfolio choice, ESG rating, and subsequent funds’ high ESG portfolio performance and fund flows. It will shed light on the role of ESG-specialized human capital in asset management business in the presence of fast growth in ESG invest- ments. ESG-specialized professionals, who are knowledgeable about the nuances of climate change issues and sustainability, are expected to assist mutual funds to make strategic ac- tions while navigating ESG-related risks and opportunities. To compile a comprehensive LinkedIn-based mutual fund employee database, I use large-scale web scraping and textual analysis techniques to analyze ESG employees’ education backgrounds, past work expe- riences, expertise (e.g., science- vs management-oriented), etc. In addition, I merge the ESG employee information with the standard mutual fund databases (CRSP and Thom- son Reuters) to create a Linkedin employee-fund database. I hypothesize that hiring ESG experts should be associated with the improvement in fund ESG rating and portfolio ESG score, better fund performance on high ESG stocks, and more fund flows.
