@@ -9,7 +9,7 @@ author_profile: true
 
 ## Finance
 
-<hr size="50" noshade> 
+<hr size="5" noshade> 
 
 ### The Rise of Sustainable Investing: Does Employment of ESG Talents Predict Mutual Funds Activities?
 [Request PDF](https://forms.gle/Yxf5xChwoUpibvr4A)&nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/research_proposal_slides.pdf)
