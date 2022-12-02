@@ -25,7 +25,7 @@ In this proposal, I plan to examine whether hiring ESG-specialized professionals
   <details>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
-          This is abstract.   
+    A multi-armed bandit algorithm is developed for factorial experiments. Using tools from advanced probability theory, I first prove that UCT algorithm with Laplace bound has a lower computational complexity than the naïve UCT algorithm. I begin by analyzing UCB1 for non-stationary bandit problems, and then prove UCT algorithm with Laplace Bounds achieves a better lower bound. Also, I demonstrate that the probability of suboptimal choices will converge to zero with a convergence of failure probability. In settings of deep learning, experimental results are also consistent with the theoretical regret bound.
 <!--     </div> -->
   </details>
 
