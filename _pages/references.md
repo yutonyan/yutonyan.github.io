@@ -7,12 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-```
-Wenxi Jiang (Research Supervisor)
-Associate Professor of Finance
-Department of Finance, The Chinese University of Hong Kong
-wenxijiang@baf.cuhk.edu.hk
-```
+
+<div style="background-color:#D3D3D3;padding:20px;">
+  Wenxi Jiang (Research Supervisor)
+  Associate Professor of Finance
+  Department of Finance, The Chinese University of Hong Kong
+  wenxijiang@baf.cuhk.edu.hk
+</div>
+
 
 ```
 Zhenyu Gao (Research Supervisor)
