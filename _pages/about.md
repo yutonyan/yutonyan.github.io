@@ -12,7 +12,7 @@ I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's d
 
 Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau) on machine learning at [McGill University](https://cs.mcgill.ca/) & [Quebec AI Institute (Mila)](https://mila.quebec/).
 
-**I am looking for a Ph.D. position in finance starting in Fall 2023. Here is my CV.**
+**I am looking for a Ph.D. position in finance starting in Fall 2023. Here is my [CV](https://yutongyan.xyz/files/CV.pdf).**
 
 Research Interests
 ======
