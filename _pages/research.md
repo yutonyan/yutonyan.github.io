@@ -10,7 +10,7 @@ author_profile: true
 ## Finance
 
 <!-- <hr size="5" noshade>  -->
-<hr size="1" noshade>
+<hr size="2" noshade>
 
 ### The Rise of Sustainable Investing: Does Employment of ESG Talents Predict Mutual Funds Activities?
 [Request PDF](https://forms.gle/Yxf5xChwoUpibvr4A)&nbsp;&nbsp;&nbsp; [Slides](https://yutongyan.xyz/files/research_proposal_slides.pdf)
@@ -21,6 +21,8 @@ In this proposal, I plan to examine whether hiring ESG-specialized professionals
 
 <!--   <div style="background-color:#D3D3D3;padding:20px;"> -->
 ## Machine Learning
+
+<hr size="2" noshade>
 
 ### Bandit Algorithms for Factorial Experiments
   [PDF](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)  
