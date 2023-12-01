@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Finance Department at CUHK Business School. I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's degree (**Dean’s Honours List**) in Computer Science and Statistics. 
+I am a PhD student at Department of Finance, CUHK Business School. I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's degree (**Dean’s Honours List**) in Computer Science and Statistics. 
 
 I was a research assistant at [Department of Finance, CUHK Business School](https://www.bschool.cuhk.edu.hk/) hosted by [Prof. Darwin Choi](https://www.bschool.cuhk.edu.hk/staff/choi-darwin/), [Prof. Zhenyu Gao](https://www.bschool.cuhk.edu.hk/staff/gao-zhenyu/) and [Prof. Wenxi Jiang](https://www.bschool.cuhk.edu.hk/staff/jiang-wenxi-griffin/).
 
