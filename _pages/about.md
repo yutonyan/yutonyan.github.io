@@ -7,12 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's degree (**Dean’s Honours List**) in Computer Science and Statistics. I am currently a research assistant at [Department of Finance, CUHK Business School](https://www.bschool.cuhk.edu.hk/) hosted by [Prof. Darwin Choi](https://www.bschool.cuhk.edu.hk/staff/choi-darwin/), [Prof. Zhenyu Gao](https://www.bschool.cuhk.edu.hk/staff/gao-zhenyu/) and [Prof. Wenxi Jiang](https://www.bschool.cuhk.edu.hk/staff/jiang-wenxi-griffin/).
+I am a PhD student in Finance Department at CUHK Business School. I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's degree (**Dean’s Honours List**) in Computer Science and Statistics. I am currently a research assistant at [Department of Finance, CUHK Business School](https://www.bschool.cuhk.edu.hk/) hosted by [Prof. Darwin Choi](https://www.bschool.cuhk.edu.hk/staff/choi-darwin/), [Prof. Zhenyu Gao](https://www.bschool.cuhk.edu.hk/staff/gao-zhenyu/) and [Prof. Wenxi Jiang](https://www.bschool.cuhk.edu.hk/staff/jiang-wenxi-griffin/).
 
 Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau) on machine learning at [McGill University](https://cs.mcgill.ca/) & [Quebec AI Institute (Mila)](https://mila.quebec/).
 
-**I am looking for a Ph.D. position in finance starting in Fall 2023. Here is my [CV](https://yutongyan.xyz/files/CV.pdf).**
 
 Research Interests
 ======
