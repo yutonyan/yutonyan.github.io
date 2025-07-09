@@ -9,11 +9,11 @@ main:
   - title: "Research"
     url: /research/
   
-  - title: "References"
-    url: /references/
-
   - title: "Blog"
     url: /blog/
+    
+  - title: "Misc"
+    url: /misc/
   
 
 #   - title: "Talks"
