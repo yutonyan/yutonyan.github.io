@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-![Alt text](images/yutong_with_joelle.jpg)
+![Alt text](/images/yutong_joelle.jpg)
