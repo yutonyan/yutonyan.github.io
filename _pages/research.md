@@ -16,7 +16,7 @@ author_profile: true
 
 [arXiv]() &nbsp;&nbsp;&nbsp; [SSRN]()  
 
-**Authors:** Zhenyu Gao, Wenxi Jiang, **Yutong Yan**
+**Authors:** Zhenyu Gao, Wenxi Jiang, **Yutong Yan** (*in alphabetical order*)
 
 **Keywords:** Large Language Models · Lookahead Bias · Time-Aware Pretraining  
 
@@ -58,7 +58,7 @@ By preventing future information leakage, **DatedGPT** enables historically fait
 
 ### Deciphering Green Preferences and Climate Risk Perceptions: An NLP Approach (*draft available upon request*)
 
-**Authors:** Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang  
+**Authors:** Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang (*in alphabetical order*) 
 
 **Keywords:** Climate Finance · Institutional Investors · ESG · Textual Analysis · Natural Language Processing
 
