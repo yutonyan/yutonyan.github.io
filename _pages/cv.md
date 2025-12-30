@@ -18,6 +18,17 @@ Education
 * Bachelor of Arts in Computer Science & Statistics, McGill University, 2020  
   **Dean’s Honours List**, CGPA: 3.92/4.00, Major GPA: 3.96/4.00
 
+
+References
+======
+
+* **Prof. Zhenyu Gao**, Department of Finance, The Chinese University of Hong Kong  
+  Email: gaozhenyu@baf.cuhk.edu.hk 
+
+* **Prof. Wenxi Jiang**, Department of Finance, The Chinese University of Hong Kong  
+  Email: wenxijiang@baf.cuhk.edu.hk 
+
+
 Research Positions
 ======
 * Department of Finance, the Chinese University of Hong Kong, 2021 - 2023
