@@ -26,7 +26,7 @@ author_profile: true
   [Poster]() &nbsp;&nbsp;&nbsp; 
   Co-authors: 
   *Keywords*: Machine Learning, Optimization  
-  Venue: [WiML Workshop, Conference on Neural Information Processing Systems 2019](https://wimlworkshop.org/)
+  Venue: AFA 2026 PhD poster,
   <details>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
