@@ -32,7 +32,7 @@ Research Positions
 
 Teaching Experience
 ======
-* 2024-2025
+* 2024-2025 
   **Teaching Assistant** of FINA4110 Options and Futures
 * 2020  
   **Teaching Assistant** of [COMP551 Applied Machine Learning](https://www.mcgill.ca/study/2022-2023/courses/comp-551)
