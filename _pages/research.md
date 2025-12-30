@@ -22,15 +22,15 @@ author_profile: true
 <!--     </div> -->
     </details>
 
-### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining
-  [Poster]() &nbsp;&nbsp;&nbsp; 
-  Co-authors: 
-  *Keywords*: Machine Learning, Optimization  
-  Venue: AFA 2026 PhD poster,
+### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining (*draft available upon request*)
+  [Demo](https://datedgpt.com) &nbsp;&nbsp;&nbsp; 
+  Authors: **Yutong Yan**, Raphael Tang 
+  *Keywords*: Large Language Models, Lookahead Bias, Pretraining
+  Presentations: AFA Poster Session (2026)
   <details>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
-
+Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present DatedGPT, the largest time-aware model family (1.3B parameters, 12 models) eliminating this bias through strict temporal pretraining. Our framework trains separate GPT-3-XL-scale models from scratch on annually segmented CommonCrawl data (2013-2024), enforcing causal data boundaries. Benchmark evaluations show progressive improvements while ablation studies confirm temporal integrity: Pre-2020 models produce near-zero probability for future events like "COVID-19" and "Joe Biden presidency" in contextually appropriate prompts—surfacing only after relevant timelines. By preventing future information leakage, DatedGPT enables historically faithful predictions for finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
 <!--     </div> -->
   </details>
 
@@ -42,7 +42,7 @@ author_profile: true
   <details>
     <summary>Abstract</summary>
 <!--     <div class="language-plaintext highlighter-rouge"> -->
-
+We employ Natural Language Processing (NLP) to scrutinize regulatory filings, identifying institutional investors’ climate change preferences and risk perceptions. These preferences and risk perceptions grow over time and are stronger after a fund has signed for the Principles for Responsible Investors (PRI) or if it is located in regions with stronger global warming beliefs. Investors preferring green assets tend to decrease their portfolio weights on environmentally-unfriendly stocks, reflecting a desire to align their investments with their values. However, the relationship between climate risk perceptions and portfolio weights of brown stocks is varied due to their diverse investment strategies. Investors with higher climate risk perceptions are more likely to support environmental shareholder proposals but those with climate preferences are not. These findings offer valuable insights into sustainable investing behavior under different motivations.
 <!--     </div> -->
   </details>
 
