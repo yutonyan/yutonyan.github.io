@@ -66,6 +66,8 @@ By preventing future information leakage, **DatedGPT** enables historically fait
 
 **Keywords:** Climate Finance · Institutional Investors · ESG · Textual Analysis · Natural Language Processing
 
+**Presentations:** European Sustainable Finance PhD Workshop (2025)
+
 <details>
 <summary><strong>Abstract</strong></summary>
 
