@@ -18,7 +18,7 @@ author_profile: true
 
 **Authors (*in alphabetical order*):** Zhenyu Gao, Wenxi Jiang, **Yutong Yan**
 
-**Keywords:** Large Language Models · Lookahead Bias · Time-Aware Pretraining  
+**Keywords:** Large Language Models · Lookahead Bias · Financial Forecasting · Asset Pricing
 
 <details open>
 <summary><strong>Abstract</strong></summary>
