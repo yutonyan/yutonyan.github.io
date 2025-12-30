@@ -11,11 +11,14 @@ I am a PhD student at Department of Finance, CUHK Business School. I graduated f
 
 I was a research assistant at [Department of Finance, CUHK Business School](https://www.bschool.cuhk.edu.hk/) hosted by [Prof. Darwin Choi](https://www.bschool.cuhk.edu.hk/staff/choi-darwin/), [Prof. Zhenyu Gao](https://www.bschool.cuhk.edu.hk/staff/gao-zhenyu/) and [Prof. Wenxi Jiang](https://www.bschool.cuhk.edu.hk/staff/jiang-wenxi-griffin/).
 
-Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau) (former VP@Meta AI Research) on machine learning at [McGill University](https://cs.mcgill.ca/) & [Quebec AI Institute (Mila)](https://mila.quebec/).
+Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau) (former VP@Meta AI Research, now Chief AI Officer of Cohere) on machine learning at [McGill University](https://cs.mcgill.ca/) & [Quebec AI Institute (Mila)](https://mila.quebec/).
 
 
 Research Interests
 ======
+
+🔥🔥🔥 **Just launched DatedGPT → [datedgpt.com](https://datedgpt.com)**   
+Building with LLMs for finance.
 
 I’m broadly interested in **finance** and **large language models (LLMs)**.
 
