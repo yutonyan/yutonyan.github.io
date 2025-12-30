@@ -37,7 +37,7 @@ author_profile: true
 
 
 ### Deciphering Green Preferences and Climate Risk Perceptions: An NLP Approach (*draft available upon request*)
-   Authors: Darwin Choi, Zhenyu Gao, Wenxi Jiang, *Yutong Yan*, and Hulai Zhang  
+   Authors: Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang  
    *Keywords*: Climate Finance, Institutional Investors, ESG, Textual Analysis, Natural Language Processing
   <details>
     <summary>Abstract</summary>
