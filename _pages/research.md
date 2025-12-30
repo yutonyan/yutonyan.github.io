@@ -47,14 +47,22 @@ By preventing future information leakage, **DatedGPT** enables historically fait
 
 
 ### Deciphering Green Preferences and Climate Risk Perceptions: An NLP Approach (*draft available upon request*)
-   Authors: Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang  
-   *Keywords*: Climate Finance, Institutional Investors, ESG, Textual Analysis, Natural Language Processing
-  <details>
-    <summary>Abstract</summary>
-<!--     <div class="language-plaintext highlighter-rouge"> -->
-We employ Natural Language Processing (NLP) to scrutinize regulatory filings, identifying institutional investors’ climate change preferences and risk perceptions. These preferences and risk perceptions grow over time and are stronger after a fund has signed for the Principles for Responsible Investors (PRI) or if it is located in regions with stronger global warming beliefs. Investors preferring green assets tend to decrease their portfolio weights on environmentally-unfriendly stocks, reflecting a desire to align their investments with their values. However, the relationship between climate risk perceptions and portfolio weights of brown stocks is varied due to their diverse investment strategies. Investors with higher climate risk perceptions are more likely to support environmental shareholder proposals but those with climate preferences are not. These findings offer valuable insights into sustainable investing behavior under different motivations.
-<!--     </div> -->
-  </details>
+
+**Authors:** Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang  
+
+**Keywords:** Climate Finance · Institutional Investors · ESG · Textual Analysis · Natural Language Processing
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+We employ Natural Language Processing (NLP) to scrutinize regulatory filings, identifying institutional investors’ climate change preferences and risk perceptions. These preferences and risk perceptions grow over time and are stronger after a fund has signed the Principles for Responsible Investment (PRI) or is located in regions with stronger global warming beliefs.
+
+Investors preferring green assets tend to decrease their portfolio weights in environmentally unfriendly stocks, reflecting a desire to align investments with their values. However, the relationship between climate risk perceptions and portfolio weights of brown stocks varies due to heterogeneous investment strategies. Investors with higher climate risk perceptions are more likely to support environmental shareholder proposals, whereas investors with green preferences are not.
+
+These findings provide new insights into sustainable investing behavior under differing investor motivations.
+
+</details>
+
 
 
 
