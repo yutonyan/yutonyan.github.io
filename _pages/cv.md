@@ -19,7 +19,7 @@ Education
   **Dean’s Honours List**, CGPA: 3.92/4.00, Major GPA: 3.96/4.00
 
 
-References
+References (*in alphabetical order*)
 ======
 
 * **Prof. Zhenyu Gao**, Department of Finance, The Chinese University of Hong Kong  
