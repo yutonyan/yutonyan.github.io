@@ -16,7 +16,7 @@ Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wi
 
 ## Research Interests
 
-🔥 **Just launched DatedGPT → [datedgpt.com](https://datedgpt.com)**  
+🔥🔥🔥 **Just launched DatedGPT → [datedgpt.com](https://datedgpt.com)**  
 Building with large language models for finance.
 
 I’m broadly interested in **finance** and **large language models (LLMs)**.
