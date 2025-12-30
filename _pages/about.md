@@ -14,12 +14,12 @@ I was a research assistant at [Department of Finance, CUHK Business School](http
 Previously I worked as a research intern for [Prof. Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau) (former VP@Meta AI Research, now Chief AI Officer of Cohere) on machine learning at [McGill University](https://cs.mcgill.ca/) & [Quebec AI Institute (Mila)](https://mila.quebec/).
 
 
-Research Interests
-======
+## Research Interests
 
-🔥🔥🔥 **Just launched DatedGPT → [datedgpt.com](https://datedgpt.com)**   
-Building with LLMs for finance.
+🔥 **Just launched DatedGPT → [datedgpt.com](https://datedgpt.com)**  
+Building with large language models for finance.
 
 I’m broadly interested in **finance** and **large language models (LLMs)**.
 
-My research centers on developing and analyzing LLMs, particularly examining issues like lookahead bias in pretrained models and creating time-indexed training approaches. I focus on understanding how these models can be applied to financial economics, while also investigating their fundamental limitations and biases.
+My research focuses on developing and analyzing LLMs, with particular attention to issues such as **lookahead bias** in pretrained models and the design of **time-indexed training approaches**. I study how these models can be applied to financial economics, while also examining their fundamental limitations and biases.
+
