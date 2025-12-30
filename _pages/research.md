@@ -32,7 +32,9 @@ Our approach provides a cost-efficient diagnostic tool for assessing the validit
 </details>
 
 
-### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining (*draft available upon request*)
+### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining
+
+[draft available upon request]() &nbsp;&nbsp;&nbsp;
 
 [Demo](https://datedgpt.com) &nbsp;&nbsp;&nbsp;  
 
@@ -56,7 +58,9 @@ By preventing future information leakage, **DatedGPT** enables historically fait
 
 
 
-### Deciphering Green Preferences and Climate Risk Perceptions: An NLP Approach (*draft available upon request*)
+### Deciphering Green Preferences and Climate Risk Perceptions: An NLP Approach
+
+[draft available upon request]() &nbsp;&nbsp;&nbsp;
 
 **Authors (*in alphabetical order*):** Darwin Choi, Zhenyu Gao, Wenxi Jiang, **Yutong Yan**, and Hulai Zhang
 
