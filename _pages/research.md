@@ -47,11 +47,11 @@ Our approach provides a cost-efficient diagnostic tool for assessing the validit
 <details>
 <summary><strong>Abstract</strong></summary>
 
-Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present *DatedGPT*, the largest time-aware model family to date (1.3B parameters across 12 models), designed to eliminate this bias through strict temporal pretraining.
+Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present <strong>DatedGPT</strong>, the largest time-aware model family to date (1.3B parameters across 12 models), designed to eliminate this bias through strict temporal pretraining.
 
-Our framework trains separate GPT-3-XL–scale models from scratch on annually segmented Common Crawl data (2013–2024), enforcing causal data boundaries. Benchmark evaluations show progressive performance improvements over time, while ablation studies confirm temporal integrity: pre-2020 models assign near-zero probability to future events such as *“COVID-19”* or *“Joe Biden presidency”* in contextually appropriate prompts—surfacing only after the relevant timelines.
+Our framework trains separate GPT-3-XL–scale models from scratch on annually segmented Common Crawl data (2013–2024), enforcing causal data boundaries. Benchmark evaluations show progressive performance improvements over time, while ablation studies confirm temporal integrity: pre-2020 models assign near-zero probability to future events such as <strong>"COVID-19"</strong> or <strong>"Joe Biden presidency"</strong> in contextually appropriate prompts—surfacing only after the relevant timelines.
 
-By preventing future information leakage, *DatedGPT* enables historically faithful predictions for applications in finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
+By preventing future information leakage, <strong>DatedGPT</strong> enables historically faithful predictions for applications in finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
 
 </details>
 
