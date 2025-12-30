@@ -23,16 +23,26 @@ author_profile: true
     </details>
 
 ### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining (*draft available upon request*)
-  [Demo](https://datedgpt.com) &nbsp;&nbsp;&nbsp; 
-  Authors: **Yutong Yan**, Raphael Tang 
-  *Keywords*: Large Language Models, Lookahead Bias, Pretraining
-  Presentations: AFA Poster Session (2026)
-  <details>
-    <summary>Abstract</summary>
-<!--     <div class="language-plaintext highlighter-rouge"> -->
-Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present DatedGPT, the largest time-aware model family (1.3B parameters, 12 models) eliminating this bias through strict temporal pretraining. Our framework trains separate GPT-3-XL-scale models from scratch on annually segmented CommonCrawl data (2013-2024), enforcing causal data boundaries. Benchmark evaluations show progressive improvements while ablation studies confirm temporal integrity: Pre-2020 models produce near-zero probability for future events like "COVID-19" and "Joe Biden presidency" in contextually appropriate prompts—surfacing only after relevant timelines. By preventing future information leakage, DatedGPT enables historically faithful predictions for finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
-<!--     </div> -->
-  </details>
+
+[Demo](https://datedgpt.com) &nbsp;&nbsp;&nbsp;  
+
+**Authors:** **Yutong Yan**, Raphael Tang  
+
+**Keywords:** Large Language Models · Lookahead Bias · Time-Aware Pretraining  
+
+**Presentations:** AFA Poster Session (2026)
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present **DatedGPT**, the largest time-aware model family to date (1.3B parameters across 12 models), designed to eliminate this bias through strict temporal pretraining.
+
+Our framework trains separate GPT-3-XL–scale models from scratch on annually segmented Common Crawl data (2013–2024), enforcing causal data boundaries. Benchmark evaluations show progressive performance improvements over time, while ablation studies confirm temporal integrity: pre-2020 models assign near-zero probability to future events such as *“COVID-19”* or *“Joe Biden presidency”* in contextually appropriate prompts—surfacing only after the relevant timelines.
+
+By preventing future information leakage, **DatedGPT** enables historically faithful predictions for applications in finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
+
+</details>
+
 
 
 
