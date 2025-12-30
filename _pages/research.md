@@ -91,7 +91,7 @@ These findings provide new insights into sustainable investing behavior under di
 
 ### Bandit Algorithms for Factorial Experiments
   [PDF](https://yutongyan.xyz/files/bandits_for_factorial_report.pdf) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/bandits_for_factorial_poster.pdf) &nbsp;&nbsp;&nbsp;  [Slides](https://yutongyan.xyz/files/bandits_for_factorial_slides.pdf)  
-  **Authors**: **Yutong Yan**, Audrey Durand, Joelle Pineau
+  **Authors**: **Yutong Yan**, Audrey Durand, Joelle Pineau  
   **Keywords**: Machine Learning, Optimization  
   Venue: [WiML Workshop, Conference on Neural Information Processing Systems 2019](https://wimlworkshop.org/)
   <details>
