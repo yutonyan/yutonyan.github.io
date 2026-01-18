@@ -14,7 +14,7 @@ author_profile: true
 
 ### A Test of Lookahead Bias in LLM Forecasts
 
-[arXiv](https://arxiv.org/abs/2512.23847) &nbsp;&nbsp;&nbsp; [slides](https://yutongyan.xyz/files/a_test_for_lookahead_bias_slides.pdf)  
+[arXiv](https://arxiv.org/abs/2512.23847) &nbsp;&nbsp;&nbsp; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277) &nbsp;&nbsp;&nbsp; [slides](https://yutongyan.xyz/files/a_test_for_lookahead_bias_slides.pdf)  
 
 **Authors (*in alphabetical order*):** Zhenyu Gao, Wenxi Jiang, **Yutong Yan**
 
