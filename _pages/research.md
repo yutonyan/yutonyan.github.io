@@ -12,7 +12,7 @@ author_profile: true
 <!-- <hr size="5" noshade>  -->
 <hr size="3" noshade>
 
-### A Test of Lookahead Bias in LLM Forecasts
+### [A Test of Lookahead Bias in LLM Forecasts](https://arxiv.org/abs/2512.23847)
 
 [arXiv](https://arxiv.org/abs/2512.23847) &nbsp;&nbsp;&nbsp; [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277) &nbsp;&nbsp;&nbsp; [slides](https://yutongyan.xyz/files/a_test_for_lookahead_bias_slides.pdf)  
 
