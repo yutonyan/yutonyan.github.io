@@ -34,7 +34,7 @@ Our approach provides a cost-efficient diagnostic tool for assessing the validit
 
 ### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining
 
-[Poster](https://yutongyan.xyz/files/DatedGPT__Preventing_Lookahead_Bias_in_LLMs_with_Time_Aware_with_Pretraining_dec28.pdf) &nbsp;&nbsp;&nbsp; [Draft Coming Soon]() &nbsp;&nbsp;&nbsp;
+[Poster](https://yutongyan.xyz/files/DatedGPT__Preventing_Lookahead_Bias_in_LLMs_with_Time_Aware_with_Pretraining_dec28.pdf) &nbsp;&nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2603.11838) &nbsp;&nbsp;&nbsp;
 
 [Video](https://yutongyan.xyz/files/datedgpt_demo_video.mp4) &nbsp;&nbsp;&nbsp;
 
@@ -49,11 +49,7 @@ Our approach provides a cost-efficient diagnostic tool for assessing the validit
 <details>
 <summary><strong>Abstract</strong></summary>
 
-Large language models (LLMs) exhibit significant lookahead bias when future-trained data contaminates historical predictions, violating temporal causality. We present <strong>DatedGPT</strong>, the largest time-aware model family to date (1.3B parameters across 12 models), designed to eliminate this bias through strict temporal pretraining.
-
-Our framework trains separate GPT-3-XL–scale models from scratch on annually segmented Common Crawl data (2013–2024), enforcing causal data boundaries. Benchmark evaluations show progressive performance improvements over time, while ablation studies confirm temporal integrity: pre-2020 models assign near-zero probability to future events such as <strong>"COVID-19"</strong> or <strong>"Joe Biden presidency"</strong> in contextually appropriate prompts—surfacing only after the relevant timelines.
-
-By preventing future information leakage, <strong>DatedGPT</strong> enables historically faithful predictions for applications in finance, economics, and longitudinal research. A public demo of DatedGPT is available at https://datedgpt.com.
+In financial backtesting, large language models pretrained on internet-scale data risk introducing lookahead bias that undermines their forecasting validity, as they may have already seen the true outcome during training. To address this, we present DatedGPT, a family of twelve 1.3B-parameter language models, each trained from scratch on approximately 100 billion tokens of temporally partitioned data with strict annual cutoffs spanning 2013 to 2024. We further enhance each model with instruction fine-tuning on both general-domain and finance-specific datasets curated to respect the same temporal boundaries. Perplexity-based probing confirms that each model's knowledge is effectively bounded by its data cutoff year, while evaluation on standard benchmarks shows competitive performance with existing models of similar scale. We provide an interactive web demo that allows users to query and compare responses from models across different cutoff years.
 
 </details>
 
