@@ -32,9 +32,9 @@ Our approach provides a cost-efficient diagnostic tool for assessing the validit
 </details>
 
 
-### DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining
+### [DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining](https://arxiv.org/abs/2603.11838)
 
-[Poster](https://yutongyan.xyz/files/DatedGPT__Preventing_Lookahead_Bias_in_LLMs_with_Time_Aware_with_Pretraining_dec28.pdf) &nbsp;&nbsp;&nbsp; [arXiv](https://arxiv.org/abs/2603.11838) &nbsp;&nbsp;&nbsp;
+[arXiv](https://arxiv.org/abs/2603.11838) &nbsp;&nbsp;&nbsp; [Poster](https://yutongyan.xyz/files/DatedGPT__Preventing_Lookahead_Bias_in_LLMs_with_Time_Aware_with_Pretraining_dec28.pdf) &nbsp;&nbsp;&nbsp; 
 
 [Video](https://yutongyan.xyz/files/datedgpt_demo_video.mp4) &nbsp;&nbsp;&nbsp;
 
