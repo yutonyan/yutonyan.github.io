@@ -3,9 +3,6 @@ permalink: /about/
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 I am a PhD student at Department of Finance, CUHK Business School. I graduated from [McGill University](https://www.mcgill.ca/) with a bachelor's degree (**Dean’s Honours List**) in Computer Science and Statistics. 
 
