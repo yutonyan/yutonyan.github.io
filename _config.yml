@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+# repository               : "yutonyan/yutonyan.github.io"
 # Site Settings
 locale                   : "en-US"
 title                    : "Yutong Yan"
@@ -13,7 +13,6 @@ name                     : &name "Yutong Yan"
 description              : &description "Yutong Yan"
 url                      : https://yutongyan.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yutonyan/yutonyan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
