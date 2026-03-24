@@ -1,19 +1,31 @@
 # main links links
 main:
-  - title: "About"
+  - title: "Research"
     url: /
-
+  - title: "About"
+    url: /about/
   - title: "Resume"
     url: /cv/
-
-  - title: "Research"
-    url: /research/
-  
   - title: "Blog"
     url: /blog/
-    
   - title: "Misc"
     url: /misc/
+    
+# main:
+#   - title: "About"
+#     url: /
+
+#   - title: "Resume"
+#     url: /cv/
+
+#   - title: "Research"
+#     url: /research/
+  
+#   - title: "Blog"
+#     url: /blog/
+    
+#   - title: "Misc"
+#     url: /misc/
   
 
 #   - title: "Talks"
