@@ -20,7 +20,7 @@ author_profile: true
 
 **Keywords:** Large Language Models · Lookahead Bias · Financial Forecasting · Asset Pricing
 
-**Presentations:** ABFER 2026 (scheduled), CICF 2026 (scheduled)
+**Presentations:** ABFER 2026 (scheduled), CICF 2026 (scheduled), NBER AI and Economic Measurement 2026 (scheduled)
 
 <details open>
 <summary><strong>Abstract</strong></summary>
