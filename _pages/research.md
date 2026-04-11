@@ -160,6 +160,7 @@ function toggleAbstract(id) {
     <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847">arXiv</a>
     <a class="badge-ssrn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277">SSRN</a>
     <a class="badge-slides" href="https://yutongyan.xyz/files/a_test_for_lookahead_bias_slides.pdf">Slides</a>
+    <a class="badge-demo" href="https://lookahead-bias.yutongyan.xyz/">Website</a>
   </div>
   <div class="paper-meta">
     <strong>Authors</strong> <em>(alphabetical):</em> Zhenyu Gao, Wenxi Jiang, <strong>Yutong Yan</strong>
