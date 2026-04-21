@@ -155,6 +155,31 @@ function toggleAbstract(id) {
 
 <div class="paper-card">
   <div class="paper-title">
+    <a href="https://arxiv.org/abs/2604.02921">Debiasing LLMs by Fine-tuning</a>
+  </div>
+  <div class="paper-links">
+    <a class="badge-arxiv" href="https://arxiv.org/abs/2604.02921">arXiv</a>
+    <a class="badge-website" href="https://debias-llm.yutongyan.xyz/">Website</a>
+  </div>
+  <div class="paper-meta">
+    <strong>Authors</strong> <em>(alphabetical):</em> Zhenyu Gao, Wenxi Jiang, <strong>Yutong Yan</strong>
+  </div>
+  <div class="paper-keywords">
+    <span>Large Language Models</span>
+    <span>Extrapolation Bias</span>
+    <span>Fine-tuning</span>
+    <span>LoRA</span>
+    <span>Financial Forecasting</span>
+  </div>
+  <div class="abstract-toggle" onclick="toggleAbstract('abs0')">▸ Abstract</div>
+  <div class="abstract-content" id="abs0" style="display:none;">
+    Large language models systematically over-extrapolate recent trends when asked to forecast, and prompting cannot fix it. We propose a supervised fine-tuning approach using Low-Rank Adaptation (LoRA), training models on instruction datasets built from rational benchmark forecasts to intervene at the parameter level in how LLMs translate observed information into predictions. In controlled forecasting experiments and stock return prediction tasks, a single round of low-cost fine-tuning aligns AI forecasts with rational benchmarks out-of-sample, correcting extrapolative bias while maintaining generalizability.
+  </div>
+</div>
+
+
+<div class="paper-card">
+  <div class="paper-title">
     <a href="https://arxiv.org/abs/2512.23847">A Test of Lookahead Bias in LLM Forecasts</a>
   </div>
   <div class="paper-links">
