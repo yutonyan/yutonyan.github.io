@@ -8,6 +8,68 @@ tags:
   - reproducibility
 ---
 
+<style>
+.code-wrapper {
+  position: relative;
+}
+.copy-btn {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: transparent;
+  color: #9ca3af;
+  border: none;
+  border-radius: 4px;
+  padding: 0.3rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.75rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  transition: color 0.15s;
+  z-index: 1;
+}
+.copy-btn:hover { color: #fff; }
+.copy-btn svg {
+  width: 16px;
+  height: 16px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.copy-btn .copy-label { color: currentColor; }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll("pre").forEach(function(pre) {
+    var wrapper = document.createElement("div");
+    wrapper.className = "code-wrapper";
+    pre.parentNode.insertBefore(wrapper, pre);
+    wrapper.appendChild(pre);
+
+    var btn = document.createElement("button");
+    btn.className = "copy-btn";
+    btn.innerHTML = '<svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="copy-label">Copy code</span>';
+    wrapper.appendChild(btn);
+
+    btn.addEventListener("click", function() {
+      var code = pre.querySelector("code");
+      var text = (code || pre).textContent;
+      navigator.clipboard.writeText(text).then(function() {
+        btn.innerHTML = '<svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg><span class="copy-label">Copied!</span>';
+        setTimeout(function() {
+          btn.innerHTML = '<svg viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg><span class="copy-label">Copy code</span>';
+        }, 2000);
+      });
+    });
+  });
+});
+</script>
+
 If you've ever stared at a screen full of regression output and thought
 *"I really hope I remember to save this log,"* this post is for you.
 Stata's `log using` is great when you remember to type it. The trouble
