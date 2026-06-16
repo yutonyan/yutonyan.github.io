@@ -196,7 +196,7 @@ function toggleAbstract(id) {
     <span>Asset Pricing</span>
   </div>
   <div class="paper-meta">
-    <strong>Presentations:</strong> ABFER 2026 (scheduled) · CICF 2026 (scheduled) · NBER AI and Economic Measurement 2026 (scheduled)
+    <strong>Presentations:</strong> NBER AI and Economic Measurement 2026 · ABFER 2026 · DFCI 2026 · SoFiE 2026 · CICF 2026 (scheduled)
   </div>
   <div class="abstract-toggle" onclick="toggleAbstract('abs1')">▸ Abstract</div>
   <div class="abstract-content" id="abs1" style="display:none;">
