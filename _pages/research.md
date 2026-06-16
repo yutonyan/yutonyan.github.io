@@ -265,9 +265,6 @@ function toggleAbstract(id) {
     <span>Textual Analysis</span>
     <span>NLP</span>
   </div>
-  <div class="paper-meta">
-    <strong>Presentations:</strong> European Sustainable Finance PhD Workshop (2025)
-  </div>
   <div class="abstract-toggle" onclick="toggleAbstract('abs3')">▸ Abstract</div>
   <div class="abstract-content" id="abs3" style="display:none;">
     We employ Natural Language Processing (NLP) to scrutinize regulatory filings, identifying institutional investors' climate change preferences and risk perceptions. These preferences and risk perceptions grow over time and are stronger after a fund has signed the Principles for Responsible Investment (PRI) or is located in regions with stronger global warming beliefs. Investors preferring green assets tend to decrease their portfolio weights in environmentally unfriendly stocks, reflecting a desire to align investments with their values. However, the relationship between climate risk perceptions and portfolio weights of brown stocks varies due to heterogeneous investment strategies. Investors with higher climate risk perceptions are more likely to support environmental shareholder proposals, whereas investors with green preferences are not. These findings provide new insights into sustainable investing behavior under differing investor motivations.
