@@ -54,6 +54,21 @@ author_profile: true
   border-bottom-color: #3498db;
 }
 
+/* ── "Chef's recommendation" tag ── */
+.paper-recommend {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: #fff5e1;
+  color: #b8651b;
+  border: 1px solid #f1c889;
+  border-radius: 999px;
+  padding: 0.1rem 0.6rem;
+  margin-left: 0.4rem;
+  vertical-align: 2px;
+  white-space: nowrap;
+}
+
 /* ── Link badges ── */
 .paper-links {
   margin-bottom: 0.6rem;
@@ -180,7 +195,7 @@ function toggleAbstract(id) {
 
 <div class="paper-card">
   <div class="paper-title">
-    <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a>
+    <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a> <span class="paper-recommend">🍽️ Updated June 2026</span>
   </div>
   <div class="paper-links">
     <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847">arXiv</a>
