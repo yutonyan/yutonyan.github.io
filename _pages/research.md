@@ -239,7 +239,7 @@ function toggleAbstract(id) {
     <span>Time-Aware Pretraining</span>
   </div>
   <div class="paper-meta">
-    <strong>Presentations:</strong> AFA Poster Session (2026)
+    <strong>Presentations:</strong> AFA Poster Session 2026
   </div>
   <div class="abstract-toggle" onclick="toggleAbstract('abs2')">▸ Abstract</div>
   <div class="abstract-content" id="abs2" style="display:none;">
