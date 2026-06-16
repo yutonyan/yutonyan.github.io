@@ -180,11 +180,10 @@ function toggleAbstract(id) {
 
 <div class="paper-card">
   <div class="paper-title">
-    <a href="https://arxiv.org/abs/2512.23847">A Test of Lookahead Bias in LLM Forecasts</a>
+    <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a>
   </div>
   <div class="paper-links">
     <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847">arXiv</a>
-    <a class="badge-ssrn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277">SSRN</a>
     <a class="badge-website" href="https://lookahead-bias.yutongyan.xyz/">Website</a>
   </div>
   <div class="paper-meta">
