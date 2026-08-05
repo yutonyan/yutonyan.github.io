@@ -199,6 +199,7 @@ function toggleAbstract(id) {
   </div>
   <div class="paper-links">
     <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847">arXiv</a>
+    <a class="badge-ssrn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277">SSRN</a>
     <a class="badge-website" href="https://lookahead-bias.yutongyan.xyz/">Website</a>
   </div>
   <div class="paper-meta">
