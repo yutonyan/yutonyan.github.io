@@ -198,7 +198,7 @@ function toggleAbstract(id) {
     <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a> <span class="paper-recommend">⭐ Updated June 2026</span>
   </div>
   <div class="paper-links">
-    <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847">arXiv (June 2026)</a>
+    <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847" style="display:none">arXiv (June 2026)</a>
     <a class="badge-ssrn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5985277">SSRN (July 2026)</a>
     <a class="badge-website" href="https://lookahead-bias.yutongyan.xyz/">Website</a>
   </div>
