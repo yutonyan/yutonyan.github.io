@@ -195,7 +195,7 @@ function toggleAbstract(id) {
 
 <div class="paper-card">
   <div class="paper-title">
-    <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a> <span class="paper-recommend">⭐ Updated June 2026</span>
+    <a href="https://arxiv.org/abs/2512.23847">Detecting Lookahead Bias in LLM Forecasts</a>
   </div>
   <div class="paper-links">
     <a class="badge-arxiv" href="https://arxiv.org/abs/2512.23847" style="display:none">arXiv (June 2026)</a>
