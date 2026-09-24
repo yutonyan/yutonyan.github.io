@@ -226,10 +226,7 @@ function toggleAbstract(id) {
     <a href="https://arxiv.org/abs/2603.11838">DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining</a>
   </div>
   <div class="paper-links">
-    <a class="badge-arxiv" href="https://arxiv.org/abs/2603.11838">arXiv</a>
-    <a class="badge-video" href="https://yutongyan.xyz/files/datedgpt_demo_video.mp4">Video</a>
-    <a class="badge-poster" href="https://yutongyan.xyz/files/DatedGPT__Preventing_Lookahead_Bias_in_LLMs_with_Time_Aware_with_Pretraining_dec28.pdf">Poster</a>
-    <a class="badge-demo" href="https://datedgpt.com">Live Demo</a>
+    <a class="badge-arxiv" href="https://arxiv.org/abs/2603.11838">arXiv (July 2026)</a>
   </div>
   <div class="paper-meta">
     <strong>Authors:</strong> <strong>Yutong Yan</strong>, Raphael Tang, Zhenyu Gao, Wenxi Jiang, Yao Lu
